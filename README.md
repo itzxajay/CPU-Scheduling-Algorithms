@@ -1,7 +1,7 @@
 # 🖥️ CPU Scheduling Algorithms - This is just for PITP
 
 A comprehensive web-based simulator showcasing various CPU scheduling algorithms to visualize and understand their behavior and performance metrics.
-
+ 
 ---
 
 ## 📚 Algorithms Included
